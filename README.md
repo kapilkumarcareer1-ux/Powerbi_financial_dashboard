@@ -1,41 +1,121 @@
-# Finance-Analysis-Dashboard
-A Finance and Performance Analysis Dashboard built using Power BI to track company expenses, identify key cost areas, and uncover financial insights. This project demonstrates business analyst skills through KPI-driven visuals, interactive filters, and clear dataset. 
+#  Financial Performance Analysis Dashboard
 
-## Project Objective
-The objective of this project is to:
-- Track and analyze company expenses over time.
-- Identify key spending areas and patterns.
-- Provide actionable insights through interactive dashboards.
-- Improve transparency in financial performance for business.
+## Overview
 
-## Dataset used
-- <a href="https://github.com/Anish7000/Finance-Analysis-Dashboard/blob/main/Finance_Expenses.csv">Dataset</a>
+The Financial Performance Analysis Dashboard is an interactive Excel dashboard designed to track and analyze income, expenses, spending patterns, and financial performance. The dashboard provides clear insights into monthly financial activities and helps users make better budgeting decisions.
 
-## Question (KPIs)
-- Which expense categories contribute the most to total spending.
-- Days wise company spending the most or least.
-- Monthly income and expenses compare over time.
-- The overall difference between total income and total expenses.
-- Account types for most of the debit transactions.
-- The distribution of debit transactions across different company.
-- Which sub-categories account for the highest spending. 
+---
 
-- Dashboard <a href="https://github.com/Anish7000/Finance-Analysis-Dashboard/blob/main/Finance%20Screenshot.png">Dashboard</a>
+##  Objectives
 
-## Process
-- Collected and imported financial data (CSV format).
-- Cleaned and prepared data in Microsoft excel.
-- Built interactive Dashboard using PowerBI.
-- Analyzed spending trends and patterns.
-- Delivered a clean, insightful dashboard for business use.
+- Monitor income and expenses.
+- Analyze spending across categories.
+- Track account-wise transactions.
+- Identify major expense contributors.
+- Improve financial planning and budgeting.
 
-  
-## Project Outcome
-The dashboard provides:
-- A clear understanding of monthly and category-wise expenses.
-- Quick identification of cost-heavy areas.
-- Interactive tools for financial decision-making.
+---
 
-## Conclusion
+##  Key Metrics
 
-This project showcases my practical skills in financial analysis, data visualization, and storytelling using Power BI. It is an ideal demonstration of how business analysts can translate raw financial data into insights that inform business strategy and cost optimization.
+| Category | Amount |
+|----------|---------|
+| Bills | 8K |
+| Food | 4K |
+| Living | 8K |
+| Travel | 14K |
+
+---
+
+##  Dashboard Features
+
+### Income vs Expense Analysis
+- Monthly comparison of income and expenses.
+- Quick identification of financial trends.
+
+### Category-wise Expense Analysis
+- Breakdown of spending across categories.
+- Waterfall chart showing cumulative expenses.
+
+### Account-wise Analysis
+- Distribution of transactions across:
+  - Credit Account
+  - Checking Account
+  - Savings Account
+
+### Company-wise Spending
+- Analyze spending by different companies/vendors.
+
+### Daily Transaction Trends
+- Track transaction amounts on a daily basis.
+
+### Expense by Sub-Category
+- Transport
+- Entertainment
+- Coffee
+- Utilities
+- Rent
+- Groceries
+
+### Interactive Filters
+- Quarter Filter (Q1, Q2, Q3, Q4)
+- Category Filters
+
+---
+
+##  Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Dashboard Design
+
+---
+
+##  Dataset
+
+The dataset includes:
+
+- Transaction Date
+- Category
+- Sub-Category
+- Account Type
+- Income
+- Expense
+- Company/Vendor
+- Amount
+
+---
+
+##  Insights
+
+- Travel is the highest expense category.
+- Income exceeds expenses in most months.
+- Transport and Entertainment contribute significantly to overall spending.
+- Account-wise analysis helps identify spending behavior.
+- Daily transaction tracking highlights financial activity patterns.
+
+---
+
+##  Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+---
+
+##  Project Outcome
+
+This dashboard enables users to monitor financial performance, understand spending behavior, and make data-driven financial decisions through interactive visualizations.
+
+---
+
+##  Author
+
+**Kapil Kumar**
+
+Aspiring Data Analyst
+
+### GitHub
+https://github.com/kapilkumarcareer1-ux
